@@ -1,4 +1,4 @@
-<ol>These are my favorite programming languages
-  <li>Java
-  <li>SAS
-  <li>Python
+These are my favorite programming languages
+  - Java
+  - SAS
+  - Python
